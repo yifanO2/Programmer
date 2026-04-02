@@ -5,3 +5,6 @@
 ## Linus Torvalds
 ### Torvalds is the creator of the Linux operating system, which has become a cornerstone of the open-source software movement.
 ![Linus turing](https://tse1.explicit.bing.net/th/id/OIP.GQ_y5axSXjaI3n_9QqZQYwAAAA?rs=1&pid=ImgDetMain&o=7&rm=)
+## Larry Page and Sergey Brin
+### While not traditional programmers, they co- founded Google, and their work revolutionized the way we search and access information online.
+![Larry Page and Sergey Brin](https://cdn.britannica.com/17/101217-050-89474964/Larry-Page-Sergey-Brin.jpg?w=385)
